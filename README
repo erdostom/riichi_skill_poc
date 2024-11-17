@@ -1,0 +1,6 @@
+## Steps
+
+1. Install python
+2. Install the reqs (`pip install -r req.txt`)
+3. Install Jupyter (https://jupyter.org/install)
+4. Open the notebook
